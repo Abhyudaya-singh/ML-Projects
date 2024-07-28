@@ -11,4 +11,4 @@ Model Architecture: Designed a robust CNN architecture optimized for feature ext
 The model is trained on a dataset of vegetable images, which includes various types of vegetables with different quality levels. The dataset is split into training, validation, and test sets to facilitate comprehensive evaluation.
 
 # Results
-The model demonstrates competitive performance in predicting vegetable quality with high accuracy. Detailed results and performance metrics are available in the results directory.
+The model demonstrates competitive performance in predicting vegetable quality with high accuracy. 
